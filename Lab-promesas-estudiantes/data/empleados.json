@@ -1,0 +1,18 @@
+{
+  "empleados": [
+    {
+      "nombre": "Karol",
+      "apellido": "Rojas",
+      "cargo": "Desarrolladora Junior",
+      "area": "Tecnologia",
+      "activo": true
+    },
+    {
+      "nombre": "Isabel",
+      "apellido": "Padilla",
+      "cargo": "Analista de Soporte",
+      "area": "Operaciones",
+      "activo": true
+    }
+  ]
+}
